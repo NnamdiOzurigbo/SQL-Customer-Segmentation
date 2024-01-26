@@ -1,0 +1,31 @@
+# SQL Project - Customer Segmentation Analysis
+
+## Overview
+This SQL project focuses on analyzing customer behavior and segmentation in the context of an e-commerce dataset named `EcommerceCustomerBehaviorSheet1`. The analysis includes exploring customer demographics, spending behavior, and satisfaction levels.
+
+## Dataset
+The dataset, `EcommerceCustomerBehaviorSheet1`, contains the following columns:
+- `Customer_ID`
+- `Gender`
+- `Age`
+- `City`
+- `Membership_Type`
+- `Total_Spend`
+- `Items_Purchased`
+- `Average_Rating`
+- `Discount_Applied`
+- `Days_Since_Last_Purchase`
+- `Satisfaction_Level`
+
+## How to Use
+1. **Data Import:**
+   - Ensure that the `EcommerceCustomerBehaviorSheet1` dataset is imported into your SQL database.
+
+2. **Execute Queries:**
+   - Run the SQL queries using your preferred SQL environment.
+
+3. **Review Results:**
+   - Examine the results to gain insights into customer behavior and segmentation.
+
+## Additional Notes
+- Make sure to replace placeholders in the queries with actual column/table names if they differ from the provided dataset.
